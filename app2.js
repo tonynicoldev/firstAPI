@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const APP_PORT = 3000
+const APP_PORT = 3001
 
 
 app.get('/', (req, res) => {
